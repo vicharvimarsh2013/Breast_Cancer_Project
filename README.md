@@ -1,6 +1,6 @@
-# Breast Cancer Project
+# NeoDx_CancerClassifier
 
-Welcome to the Breast Cancer Project, a comprehensive initiative aimed at tackling and understanding breast cancer. This GitHub repository serves as a central hub for the project, providing resources, tools, and information to contribute to the fight against breast cancer.
+Welcome to the NeoDx_CancerClassifier, a comprehensive initiative aimed at tackling and understanding breast cancer. This GitHub repository serves as a central hub for the project, providing resources, tools, and information to contribute to the fight against breast cancer.
 
 ## Overview
 
